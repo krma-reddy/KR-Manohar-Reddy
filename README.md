@@ -1,4 +1,4 @@
-#### KR-Manohar-Reddy
+## KR-Manohar-Reddy
 
 A brief about myself:
 
